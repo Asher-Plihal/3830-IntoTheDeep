@@ -1,3 +1,9 @@
+# Team 3830 — Into the Deep
+
+FIRST Tech Challenge Team 3830's (Violet Fusion) competition code for the Into the Deep season, built on the [Titan Robotics Framework Library](https://github.com/trc492/TrcLib) template below. Team 3830 took 2nd place at the Florida State Championship this season, back-to-back with the CenterStage season before it.
+
+---
+
 ## Welcome!
 This repository contains the official FTC SDK from https://github.com/FIRST-Tech-Challenge/FtcRobotController. It 
 has the addition of our Titan Robotics Framework Library (TrcLib) and its dependencies. These are added as git 
